@@ -4,7 +4,7 @@ const myself = {
  greeting: "Wellcome ! 👋",
  name: "Magno Vicentini Serra",
  age: 28,
- address: "Barbaceena/MG",
+ address: "Barbacena/MG",
  employment: "Full Stack Developer",
 }
 
