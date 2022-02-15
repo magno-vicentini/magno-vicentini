@@ -28,8 +28,9 @@ const myself = {
 <img align="center" alt="LeoH-mySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />  
 <img align="center" alt="LeoH-mySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
 <img align="center" alt="LeoH-mySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
- <div>Take a look at my portfolio <a href="https://magno-vicentini.github.io/" target="_blank">Here</a></div>
+  <br><br>
+ <div>Take a look at my portfolio <a href="https://magno-vicentini.github.io/" target="_blank">Here</a></div><br><br>
+ 
   <div align="center">
   <h1 style="text-align: center;">You can contact me on: </h1>
   
